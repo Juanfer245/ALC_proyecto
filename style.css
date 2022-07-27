@@ -116,7 +116,7 @@ h6{
     bottom: -30px;
     margin-left: 500px;
 }
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 680px) {
     .fot{
         bottom: -130px;
         position: relative;
@@ -125,7 +125,7 @@ h6{
         margin-left:-10px;
     }
 }
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 680px) {
     h6{
         bottom: -50px;
         position: relative;
@@ -157,21 +157,21 @@ p5{
     margin-left: -250px;
     bottom: 0px;
 }
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 680px) {
 p2{
     position: relative;
     margin-left:119px;
 }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 680px) {
     p4{
         position: relative;
         bottom: -710px;
         margin-left:110px;
     }
     }
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 680px) {
     p5{
         position: relative;
         bottom: -750px;
@@ -222,34 +222,34 @@ p2{
 
 
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 680px) {
     .boton {
         margin-left:130px;
     }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 680px) {
     .paragraph {
         font-size: 15px;
         width: 310px;
     }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 680px) {
     .cuadrado {
         max-width: 100%;
         height: 2600px;
     }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 680px) {
     .clase {
         margin-left: 10px;
         margin-top: -10px;
     }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 680px) {
     #galeria img {
         margin-left: 35px;
         width: 310px;
